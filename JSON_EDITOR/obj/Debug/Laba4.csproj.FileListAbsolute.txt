@@ -1,0 +1,14 @@
+E:\University\RiderProjects\Laba4\Laba4\bin\Debug\Laba4.exe.config
+E:\University\RiderProjects\Laba4\Laba4\bin\Debug\Laba4.exe
+E:\University\RiderProjects\Laba4\Laba4\bin\Debug\Laba4.pdb
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.csproj.SuggestedBindingRedirects.cache
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.exe
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.pdb
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+E:\University\RiderProjects\Laba4\Laba4\bin\Debug\Newtonsoft.Json.dll
+E:\University\RiderProjects\Laba4\Laba4\bin\Debug\Newtonsoft.Json.xml
+E:\University\RiderProjects\Laba4\Laba4\obj\Debug\Laba4.csproj.CopyComplete

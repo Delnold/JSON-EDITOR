@@ -1,0 +1,14 @@
+E:\University\RiderProjects\Laba4\JSON_EDITOR\bin\Debug\JSON_EDITOR.exe.config
+E:\University\RiderProjects\Laba4\JSON_EDITOR\bin\Debug\JSON_EDITOR.exe
+E:\University\RiderProjects\Laba4\JSON_EDITOR\bin\Debug\JSON_EDITOR.pdb
+E:\University\RiderProjects\Laba4\JSON_EDITOR\bin\Debug\Newtonsoft.Json.dll
+E:\University\RiderProjects\Laba4\JSON_EDITOR\bin\Debug\Newtonsoft.Json.xml
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.csproj.AssemblyReference.cache
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.csproj.SuggestedBindingRedirects.cache
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\Laba4.Form1.resources
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\Laba4.Properties.Resources.resources
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.csproj.GenerateResource.cache
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.csproj.CoreCompileInputs.cache
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.csproj.CopyComplete
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.exe
+E:\University\RiderProjects\Laba4\JSON_EDITOR\obj\Debug\JSON_EDITOR.pdb

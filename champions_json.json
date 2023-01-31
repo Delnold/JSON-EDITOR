@@ -1,0 +1,43 @@
+[{
+  "Name": "Evelyn",
+  "Gender": "female",
+  "Passive": "Demon Shade",
+  "Age": 800
+},
+{
+  "Name": "Zak",
+  "Gender": "creature",
+  "Passive": "Cell Division",
+  "Age": 1000
+},
+{
+  "Name": "Ryze",
+  "Gender": "male",
+  "Passive": "Arcane Mastery",
+  "Age": 1000
+},
+{
+  "Name": "Ahri",
+  "Gender": "female",
+  "Passive": "Essence Theft",
+  "Age": 999
+},
+{
+  "Name": "Akshan",
+  "Gender": "male",
+  "Passive": "Dirty Fighting",
+  "Age": 25
+},
+{
+  "Name": "Bel'Veth",
+  "Gender": "creature",
+  "Passive": "Death in Lavender",
+  "Age": 100
+},
+{
+  "Name": "Blitzcrank",
+  "Gender": "robot",
+  "Passive": "Mana Barrier",
+  "Age": 200
+}
+]
