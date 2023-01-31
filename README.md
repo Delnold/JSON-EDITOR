@@ -2,7 +2,7 @@
 WFA to manage work with specific JSON file
 
 ![image](https://user-images.githubusercontent.com/91605867/215828894-43a07297-fdcf-403f-bb60-2d80162237d5.png)
-This WFA allows to do following thins with specified JSON file:
+This WFA allows to do following things with specified JSON file:
 1) Create new record
 2) Delete selected record
 3) Update selected record
